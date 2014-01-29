@@ -1,4 +1,4 @@
 <?php 
 	phpinfo(); 
-	echo '<p>Hell World</p>';
+	 echo '<p>Hell World</p>';
 ?>
